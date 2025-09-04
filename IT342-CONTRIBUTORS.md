@@ -1,8 +1,6 @@
 ## Contributors
 - Revilleza, Frederick (**@blissfuljuan**)
-<<<<<<< HEAD
 - Rosel, Patricia (**@patetetet**)
-=======
 - Pael, Neilross Ulysses (**@tetWantsToCode**)
 - Sepulveda, Kyle (**@Nagazta**)
 - Sumucad, Joseph Kyle (**@kylehatescodes**)
@@ -21,4 +19,3 @@
 - Tabungar, Steven Jan (**@Smuffinn**)
 - verano, joel (**@VeranoJoel**)
 - Rosel, Patricia (**@patetetet**)
->>>>>>> 87a63cf1ae899f9158ed195b10aec76fcb665eb7
