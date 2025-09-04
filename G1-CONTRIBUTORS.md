@@ -2,4 +2,5 @@
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
 - Revilleza, Frederick (**@juantojuan**)
-- Rosel, Patricia Mae (**patetetet**)
+- Estrera, Michaela Ma. Alexa D. (@michaela-es)
+- Abel, Zydric (**@zydric**)
